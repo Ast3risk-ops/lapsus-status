@@ -1,6 +1,7 @@
 # Change these first
 owner: ast3risk-ops # Your GitHub organization or username, where this repository lives
 repo: lapsus-status # The name of this repository
+user-agent: ast3risk-ops
 
 sites:
   - name: Multiplayer Session Service (Mojang)
@@ -39,3 +40,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+assignees:
+  - ManucrackYT
