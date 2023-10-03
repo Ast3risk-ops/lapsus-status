@@ -21,7 +21,7 @@ sites:
       # - 301
       # - 302
       # - 403
-  - name: Legacy Accounts (Mojang)
+  - name: Legacy Mojang Accounts
     url: https://account.mojang.com/login
     expectedStatusCodes:
       - 403
