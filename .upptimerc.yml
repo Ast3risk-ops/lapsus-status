@@ -4,11 +4,11 @@ repo: lapsus-status # The name of this repository
 
 sites:
   - name: Multiplayer Session Service (Mojang)
-    url: http://session.minecraft.net/
+    url: http://session.minecraft.net
   - name: Authentication Server (Mojang)
-    url: https://authserver.mojang.com/
+    url: https://authserver.mojang.com
   - name: Minecraft Skins (Mojang)
-    url: https://textures.minecraft.net/
+    url: https://textures.minecraft.net
   - name: Legacy Accounts (Mojang)
     url: https://account.mojang.com/login
   - name: Microsoft OAuth2 Gateway
