@@ -5,24 +5,46 @@ user-agent: ast3risk-ops
 
 sites:
   - name: Multiplayer Session Service (Mojang)
-    url: http://session.minecraft.net
+    url: https://session.minecraft.net
+    expectedStatusCodes:
+      - 404
   - name: Authentication Server (Mojang)
     url: https://authserver.mojang.com
   - name: Minecraft Skins (Mojang)
     url: https://textures.minecraft.net
+    expectedStatusCodes:
+      - 400
+  - name: Minecraft.net
+    url: https://minecraft.net
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 403
   - name: Legacy Accounts (Mojang)
     url: https://account.mojang.com/login
+    expectedStatusCodes:
+      - 403
+      - 200
   - name: Microsoft OAuth2 Gateway
     url: https://login.microsoftonline.com/consumers/oauth2/v2.0/token
   - name: Authentication Server (Xbox)
     url: https://user.auth.xboxlive.com/user/authenticate
+    expectedStatusCodes:
+      - 405
   - name: Gatekeeper (Xbox)
     url: https://xsts.auth.xboxlive.com/xsts/authorize
+    expectedStatusCodes:
+      - 405
   - name: Minecraft API (Microsoft)
     url: https://api.minecraftservices.com/authentication/login_with_xbox
+    expectedStatusCodes:
+      - 401
+      - 403
   - name: Minecraft Profile Services (Microsoft)
     url: https://api.minecraftservices.com/minecraft/profile
-
+    expectedStatusCodes:
+      - 401
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
