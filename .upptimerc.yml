@@ -14,13 +14,13 @@ sites:
     url: https://textures.minecraft.net
     expectedStatusCodes:
       - 400
-  - name: Minecraft.net
-    url: https://www.minecraft.net
-    expectedStatusCodes:
-      - 200
-      - 301
-      - 302
-      - 403
+  # - name: Minecraft.net
+    # url: https://www.minecraft.net/en-us
+    # expectedStatusCodes:
+      # - 200
+      # - 301
+      # - 302
+      # - 403
   - name: Legacy Accounts (Mojang)
     url: https://account.mojang.com/login
     expectedStatusCodes:
