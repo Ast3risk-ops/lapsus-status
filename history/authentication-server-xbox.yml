@@ -1,7 +1,7 @@
 url: https://user.auth.xboxlive.com/user/authenticate
-status: down
+status: up
 code: 405
-responseTime: 224
-lastUpdated: 2023-10-03T21:21:39.728Z
+responseTime: 204
+lastUpdated: 2023-10-03T22:22:09.931Z
 startTime: 2023-10-03T21:02:30.376Z
 generator: Upptime <https://github.com/upptime/upptime>
