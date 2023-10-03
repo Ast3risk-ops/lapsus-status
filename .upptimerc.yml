@@ -15,7 +15,7 @@ sites:
     expectedStatusCodes:
       - 400
   - name: Minecraft.net
-    url: https://minecraft.net
+    url: https://www.minecraft.net
     expectedStatusCodes:
       - 200
       - 301
