@@ -51,14 +51,17 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /lapsus-status
   logoUrl: https://asterisk.is-from.space/r/lapsus.png
+  favicon: https://asterisk.is-from.space/r/lapsus.png
   name: Lapsus Status Page
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "The **Lapsus Launcher** statuspage"
+  introMessage: This status page powers the status section of the [Lapsus launcher](https://github.com/ManucrackYT/LapsusLauncher).
   navbar:
     - title: Status
       href: /lapsus-status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Lapsus Launcher
+      href: https://github.com/ManucrackYT/LapsusLauncher
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
