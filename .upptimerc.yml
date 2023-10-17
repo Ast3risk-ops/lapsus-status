@@ -54,7 +54,7 @@ status-website:
   favicon: https://asterisk.is-from.space/r/lapsus.png
   name: Lapsus Status Page
   introTitle: "The **Lapsus Launcher** statuspage"
-  introMessage: This status page powers the status section of the [Lapsus launcher](https://github.com/ManucrackYT/LapsusLauncher).
+  introMessage: This status page powers the status section of the [Lapsus Launcher](https://github.com/ManucrackYT/LapsusLauncher).
   navbar:
     - title: Status
       href: /lapsus-status
