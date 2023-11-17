@@ -1,7 +1,7 @@
 url: https://login.microsoftonline.com/consumers/oauth2/v2.0/token
 status: up
 code: 200
-responseTime: 293
-lastUpdated: 2023-11-16T23:14:03.192Z
+responseTime: 119
+lastUpdated: 2023-11-17T23:13:50.724Z
 startTime: 2023-10-03T21:02:29.630Z
 generator: Upptime <https://github.com/upptime/upptime>
