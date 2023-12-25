@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/authserver.mojang.com.ico",
     "slug": "authentication-server-mojang",
     "status": "down",
-    "uptime": "93.09%",
+    "uptime": "93.03%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "18.86%",
-    "uptimeMonth": "81.33%",
-    "uptimeYear": "93.09%",
+    "uptimeWeek": "18.19%",
+    "uptimeMonth": "81.17%",
+    "uptimeYear": "93.03%",
     "time": 249,
     "timeDay": 49,
     "timeWeek": 120,
     "timeMonth": 186,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2023-12-25": 46,
+      "2023-12-25": 114,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
@@ -72,7 +72,7 @@
     "url": "https://account.mojang.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/account.mojang.com.ico",
     "slug": "legacy-mojang-accounts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -83,7 +83,9 @@
     "timeWeek": 991,
     "timeMonth": 373,
     "timeYear": 214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-25": 0
+    }
   },
   {
     "name": "Microsoft OAuth2 Gateway",
