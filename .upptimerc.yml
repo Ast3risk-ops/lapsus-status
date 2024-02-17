@@ -8,8 +8,6 @@ sites:
     url: https://session.minecraft.net
     expectedStatusCodes:
       - 404
-  - name: Authentication Server (Mojang)
-    url: https://authserver.mojang.com
   - name: Minecraft Skins (Mojang)
     url: https://textures.minecraft.net
     expectedStatusCodes:
