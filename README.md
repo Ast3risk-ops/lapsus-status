@@ -1,6 +1,6 @@
 # [📈 Live Status](https://ast3risk-ops.github.io/lapsus-status): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Asterisk](https://ast3risk-ops.carrd.co), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for the [Lapsus Launcher](https://github.com/ManucrackYT/LapsusLauncher), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/ast3risk-ops/lapsus-status/workflows/Uptime%20CI/badge.svg)](https://github.com/ast3risk-ops/lapsus-status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/ast3risk-ops/lapsus-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/ast3risk-ops/lapsus-status/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -32,5 +32,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Asterisk](https://ast3risk-ops.carrd.co)
+- Code: [MIT](./LICENSE) © [Asterisk](https://asterisk.lol)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
