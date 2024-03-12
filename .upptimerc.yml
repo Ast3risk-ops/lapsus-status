@@ -64,8 +64,8 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
-workflowSchedule:
-  uptime: "*/10 * * * *"
+# workflowSchedule:
+  # uptime: "*/10 * * * *"
 
 assignees:
   - ManucrackYT
