@@ -48,9 +48,9 @@
     "url": "https://account.mojang.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/account.mojang.com.ico",
     "slug": "legacy-mojang-accounts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
@@ -60,6 +60,7 @@
     "timeMonth": 840,
     "timeYear": 768,
     "dailyMinutesDown": {
+      "2024-03-15": 0,
       "2024-02-21": 25,
       "2023-12-25": 30
     }
