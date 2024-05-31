@@ -1,7 +1,7 @@
 url: https://api.minecraftservices.com/minecraft/profile
-status: down
-code: 429
-responseTime: 58
-lastUpdated: 2024-05-31T22:17:13.966Z
+status: up
+code: 401
+responseTime: 101
+lastUpdated: 2024-05-31T22:30:04.178Z
 startTime: 2023-10-03T21:02:40.097Z
 generator: Upptime <https://github.com/upptime/upptime>
