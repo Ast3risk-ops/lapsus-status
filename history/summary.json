@@ -150,7 +150,7 @@
     "url": "https://api.minecraftservices.com/minecraft/profile",
     "icon": "https://icons.duckduckgo.com/ip3/api.minecraftservices.com.ico",
     "slug": "minecraft-profile-services-microsoft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "88.14%",
     "uptimeWeek": "94.10%",
