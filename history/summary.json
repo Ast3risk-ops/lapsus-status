@@ -107,7 +107,7 @@
     "url": "https://xsts.auth.xboxlive.com/xsts/authorize",
     "icon": "https://icons.duckduckgo.com/ip3/xsts.auth.xboxlive.com.ico",
     "slug": "gatekeeper-xbox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "90.89%",
     "uptimeWeek": "98.70%",
