@@ -48,9 +48,9 @@
     "url": "https://account.mojang.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/account.mojang.com.ico",
     "slug": "legacy-mojang-accounts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -60,6 +60,7 @@
     "timeMonth": 1123,
     "timeYear": 883,
     "dailyMinutesDown": {
+      "2024-07-05": 0,
       "2024-02-21": 25,
       "2023-12-25": 30
     }
@@ -156,12 +157,12 @@
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.16%",
+    "uptimeMonth": "98.27%",
     "uptimeYear": "99.72%",
     "time": 75,
     "timeDay": 84,
     "timeWeek": 96,
-    "timeMonth": 74,
+    "timeMonth": 75,
     "timeYear": 75,
     "dailyMinutesDown": {
       "2024-06-12": 17,
