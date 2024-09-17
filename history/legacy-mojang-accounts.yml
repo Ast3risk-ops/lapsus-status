@@ -1,7 +1,7 @@
 url: https://account.mojang.com/login
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-17T13:51:18.708Z
+status: up
+code: 200
+responseTime: 1200
+lastUpdated: 2024-09-17T14:07:16.627Z
 startTime: 2023-10-03T22:32:35.167Z
 generator: Upptime <https://github.com/upptime/upptime>
