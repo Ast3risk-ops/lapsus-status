@@ -4,10 +4,10 @@
     "url": "https://session.minecraft.net",
     "icon": "https://icons.duckduckgo.com/ip3/session.minecraft.net.ico",
     "slug": "multiplayer-session-service-mojang",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
@@ -15,7 +15,9 @@
     "timeWeek": 192,
     "timeMonth": 190,
     "timeYear": 208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-28": 1
+    }
   },
   {
     "name": "Minecraft Skins (Mojang)",
@@ -41,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/account.mojang.com.ico",
     "slug": "legacy-mojang-accounts",
     "status": "up",
-    "uptime": "96.03%",
+    "uptime": "96.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -143,10 +145,10 @@
     "url": "https://api.minecraftservices.com/authentication/login_with_xbox",
     "icon": "https://icons.duckduckgo.com/ip3/api.minecraftservices.com.ico",
     "slug": "minecraft-api-microsoft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 72,
@@ -155,6 +157,7 @@
     "timeMonth": 68,
     "timeYear": 78,
     "dailyMinutesDown": {
+      "2025-04-28": 1,
       "2024-06-14": 20
     }
   },
@@ -163,18 +166,19 @@
     "url": "https://api.minecraftservices.com/minecraft/profile",
     "icon": "https://icons.duckduckgo.com/ip3/api.minecraftservices.com.ico",
     "slug": "minecraft-profile-services-microsoft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 99,
+    "time": 100,
     "timeDay": 157,
     "timeWeek": 98,
     "timeMonth": 113,
     "timeYear": 104,
     "dailyMinutesDown": {
+      "2025-04-28": 0,
       "2024-06-12": 17,
       "2024-06-11": 46,
       "2024-06-10": 63,
