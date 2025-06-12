@@ -6,17 +6,17 @@
     "slug": "multiplayer-session-service-mojang",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 255,
-    "timeWeek": 187,
-    "timeMonth": 166,
+    "time": 200,
+    "timeDay": 222,
+    "timeWeek": 191,
+    "timeMonth": 168,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-06-12": 0
+      "2025-06-12": 19
     }
   },
   {
