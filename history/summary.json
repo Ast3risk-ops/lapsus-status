@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/account.mojang.com.ico",
     "slug": "legacy-mojang-accounts",
     "status": "up",
-    "uptime": "96.33%",
+    "uptime": "96.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -146,8 +146,8 @@
     "slug": "minecraft-api-microsoft",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 75,
@@ -156,9 +156,7 @@
     "timeMonth": 69,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2025-06-13": 2,
-      "2025-06-04": 16,
-      "2024-06-14": 20
+      "2025-06-04": 16
     }
   },
   {
