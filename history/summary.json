@@ -4,18 +4,19 @@
     "url": "https://session.minecraft.net",
     "icon": "https://icons.duckduckgo.com/ip3/session.minecraft.net.ico",
     "slug": "multiplayer-session-service-mojang",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 524,
-    "timeWeek": 232,
-    "timeMonth": 203,
+    "timeDay": 317,
+    "timeWeek": 217,
+    "timeMonth": 200,
     "timeYear": 195,
     "dailyMinutesDown": {
+      "2025-07-03": 0,
       "2025-06-12": 19
     }
   },
