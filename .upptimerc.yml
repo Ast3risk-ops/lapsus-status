@@ -43,7 +43,7 @@ sites:
     url: https://api.minecraftservices.com/minecraft/profile
     expectedStatusCodes:
       - 401
-   - name: Authentication Service
+  - name: Authentication Service
     url: https://api.minecraftservices.com/authentication/login_with_xbox
     expectedStatusCodes:
       - 401
