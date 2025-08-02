@@ -24,6 +24,11 @@ sites:
     expectedStatusCodes:
       - 403
       - 200
+  - name: Authentication Service (Xbox)
+    url: https://api.minecraftservices.com/authentication/login_with_xbox
+    expectedStatusCodes:
+      - 401
+      - 403
   - name: Microsoft OAuth2 Gateway
     url: https://login.microsoftonline.com/consumers/oauth2/v2.0/token
   - name: Authentication Server (Xbox)
@@ -43,11 +48,6 @@ sites:
     url: https://api.minecraftservices.com/minecraft/profile
     expectedStatusCodes:
       - 401
-  - name: Authentication Service
-    url: https://api.minecraftservices.com/authentication/login_with_xbox
-    expectedStatusCodes:
-      - 401
-      - 403
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
