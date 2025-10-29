@@ -4,10 +4,10 @@
     "url": "https://session.minecraft.net",
     "icon": "https://icons.duckduckgo.com/ip3/session.minecraft.net.ico",
     "slug": "multiplayer-session-service-mojang",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 198,
@@ -16,6 +16,7 @@
     "timeMonth": 240,
     "timeYear": 198,
     "dailyMinutesDown": {
+      "2025-10-29": 2,
       "2025-08-19": 31,
       "2025-07-21": 30,
       "2025-07-08": 31,
@@ -28,10 +29,10 @@
     "url": "https://textures.minecraft.net",
     "icon": "https://icons.duckduckgo.com/ip3/textures.minecraft.net.ico",
     "slug": "minecraft-skins-mojang",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
@@ -39,7 +40,9 @@
     "timeWeek": 186,
     "timeMonth": 219,
     "timeYear": 199,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-29": 2
+    }
   },
   {
     "name": "Legacy Mojang Accounts",
@@ -66,10 +69,10 @@
     "url": "https://api.minecraftservices.com/authentication/login_with_xbox",
     "icon": "https://icons.duckduckgo.com/ip3/api.minecraftservices.com.ico",
     "slug": "authentication-service-xbox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 87,
@@ -78,6 +81,7 @@
     "timeMonth": 79,
     "timeYear": 87,
     "dailyMinutesDown": {
+      "2025-10-29": 1,
       "2025-08-06": 27
     }
   },
@@ -140,10 +144,10 @@
     "url": "https://api.minecraftservices.com/authentication/login_with_xbox",
     "icon": "https://icons.duckduckgo.com/ip3/api.minecraftservices.com.ico",
     "slug": "minecraft-api-microsoft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 73,
@@ -152,6 +156,7 @@
     "timeMonth": 4,
     "timeYear": 73,
     "dailyMinutesDown": {
+      "2025-10-29": 1,
       "2025-08-13": 28,
       "2025-08-06": 27,
       "2025-07-21": 43,
@@ -165,9 +170,9 @@
     "url": "https://api.minecraftservices.com/minecraft/profile",
     "icon": "https://icons.duckduckgo.com/ip3/api.minecraftservices.com.ico",
     "slug": "minecraft-profile-services-microsoft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -177,6 +182,7 @@
     "timeMonth": 206,
     "timeYear": 140,
     "dailyMinutesDown": {
+      "2025-10-29": 0,
       "2025-08-06": 27,
       "2025-08-04": 40,
       "2025-08-03": 17
