@@ -1,7 +1,7 @@
 url: https://api.minecraftservices.com/authentication/login_with_xbox
-status: up
-code: 403
-responseTime: 40
-lastUpdated: 2026-01-25T23:21:00.817Z
+status: down
+code: 429
+responseTime: 34
+lastUpdated: 2026-01-26T15:00:38.396Z
 startTime: 2025-08-02T23:47:14.673Z
 generator: Upptime <https://github.com/upptime/upptime>
