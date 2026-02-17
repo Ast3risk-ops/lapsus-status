@@ -109,19 +109,19 @@
     "url": "https://user.auth.xboxlive.com/user/authenticate",
     "icon": "https://icons.duckduckgo.com/ip3/user.auth.xboxlive.com.ico",
     "slug": "authentication-server-xbox",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "95.72%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
     "time": 150,
-    "timeDay": 63,
+    "timeDay": 113,
     "timeWeek": 162,
     "timeMonth": 181,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2026-02-17": 0
+      "2026-02-17": 62
     }
   },
   {
